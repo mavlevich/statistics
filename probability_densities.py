@@ -24,3 +24,4 @@ plt.ylabel('Funkcja gęstości prawdopodobieństwa')
 plt.legend()
 plt.grid(True)
 plt.show()
+
